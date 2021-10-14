@@ -1,0 +1,69 @@
+body {
+  background-color: #99FF99;
+}
+
+.title {
+  margin: 15px;
+  text-align: center;
+}
+
+.monsterForm {
+  text-align: center;
+}
+
+#monsterSubmit {
+  margin-top: 10px;
+}
+
+#monsterResults {
+  margin-left: 40px;
+}
+
+hr {
+  border: 1px solid black;
+  width: 50%;
+  text-align: left;
+  margin-left: 0;
+}
+
+.creatureName {
+  font-family: "Garamond", serif;
+  font-weight: bold;
+  font-size: 48px;
+  margin-bottom: 0px;
+}
+
+.sizeType {
+  margin-top: 0px;
+}
+
+.stats {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.scoreContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.scoreValues {
+  height: 120px;
+  width: 60px;
+  border: 1px solid black;
+  align-items: center;
+}
+
+.scoreName {
+  text-align: center;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.score {
+  text-align: center;
+}
+
+.modifier {
+  text-align: center;
+}
